@@ -1,0 +1,11 @@
+//COMMAND OBJECT secondary_panels.po get_currents ( source :  &
+//sequence(ref(gaussian_beam_pattern)), field_accuracy : -80.0,  &
+//auto_convergence_of_po : on, convergence_on_scatterer :  &
+//sequence(ref(primary_panels.refl))) cmd_1 
+//COMMAND OBJECT primary_panels.po get_currents ( source :  &
+//sequence(ref(secondary_panels.po)), field_accuracy : -80.0,  &
+//auto_convergence_of_po : on, convergence_on_output_grid :  &
+//sequence(ref(near_uv.grd))) cmd_30 
+COMMAND OBJECT near_uv.grd get_field ( source :  &
+sequence(ref(primary_panels.po))) cmd_34 
+QUIT 

@@ -1,0 +1,14 @@
+ <OutputFiles>
+  <File Path="CCAT-optics.tci" Type="tci" Format="Text" Object="unknown"/>
+  <File Path="CCAT-optics.tor" Type="tor" Format="Text" Object="unknown"/>
+  <File Path="ticra-tools.log" Type="log" Format="Text" Object="unknown"/>
+  <File Path="ticra-tools.out" Type="out" Format="Text" Object="unknown"/>
+  <File Path="secondary_panels.po.cur" Type="Currents:Standard" Format="Bin" Object="unknown"/>
+  <File Path="primary_panels.po.cur" Type="Currents:Standard" Format="Bin" Object="unknown"/>
+  <File Path="near_uv.grd" Type="Grid:Spherical" Format="Ticra" Object="near_uv_negneg.grd" IsNearField="1" Quantity="E">
+    <Parameter Name="Frequency" Values=" 100.000000000000" Unit="GHz" />
+    <Parameter Name="V" Values="[1.200000000000000E-002;4.200000000000000E-002;201]" Unit="" />
+    <Parameter Name="U" Values="[-4.200000000000000E-002;-1.200000000000000E-002;201]" Unit="" />
+    <Scan Type="uv"/>
+  </File>
+ </OutputFiles>

@@ -1,0 +1,13 @@
+ Program started at 14:54:42 on 20 March 2020
+ 
+ TICRA Tools 19.1 (Linux amd64/em64t 64-bit)
+ 
+ TICRA Tools found  64 CPU threads
+ 
+TICRA-TOOLS>COMMAND OBJECT near_uv.grd get_field ( source :   sequence(ref(primary_panels.po))) cmd_34 
+ ----- TASK No. 1 -----     Started at 14:54:43 on March 20, 2020                
+ Total task time: 18:59 min               
+TICRA-TOOLS>QUIT 
+ ----- END OF TASKS -----     Completed at 15:13:42 on March 20, 2020            
+ Total time was 19:00 min
+ Program stopped at 15:13:42 on 20 March 2020

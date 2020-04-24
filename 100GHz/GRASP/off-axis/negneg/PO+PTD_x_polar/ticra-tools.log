@@ -1,0 +1,749 @@
+ Program started at  6:55:47 on 14 April 2020
+ 
+ TICRA Tools 19.1 (Linux amd64/em64t 64-bit)
+ 
+ TICRA Tools found  64 CPU threads
+ 
+TICRA-TOOLS>COMMAND OBJECT secondary_panels.po get_currents ( source :   sequence(ref(gaussian_beam_pattern)), field_accuracy : -80.0,   auto_convergence_of_po : on, convergence_on_scatterer :   sequence(ref(primary_panels.refl))) cmd_1 
+ ----- TASK No. 1 -----     Started at  6:55:47 on April 14, 2020                
+  PO1 =  370  PO2 =  230  Face =    1, Final PO-values from auto-convergence
+  PO1 =  360  PO2 =  190  Face =    2, Final PO-values from auto-convergence
+  PO1 =  350  PO2 =  210  Face =    3, Final PO-values from auto-convergence
+  PO1 =  340  PO2 =  235  Face =    4, Final PO-values from auto-convergence
+  PO1 =  330  PO2 =  255  Face =    5, Final PO-values from auto-convergence
+  PO1 =  350  PO2 =  265  Face =    6, Final PO-values from auto-convergence
+  PO1 =  340  PO2 =  230  Face =    7, Final PO-values from auto-convergence
+  PO1 =  330  PO2 =  190  Face =    8, Final PO-values from auto-convergence
+  PO1 =  320  PO2 =  205  Face =    9, Final PO-values from auto-convergence
+  PO1 =  310  PO2 =  235  Face =   10, Final PO-values from auto-convergence
+  PO1 =  295  PO2 =  255  Face =   11, Final PO-values from auto-convergence
+  PO1 =  285  PO2 =  275  Face =   12, Final PO-values from auto-convergence
+  PO1 =  330  PO2 =  300  Face =   13, Final PO-values from auto-convergence
+  PO1 =  320  PO2 =  265  Face =   14, Final PO-values from auto-convergence
+  PO1 =  310  PO2 =  230  Face =   15, Final PO-values from auto-convergence
+  PO1 =  305  PO2 =  190  Face =   16, Final PO-values from auto-convergence
+  PO1 =  290  PO2 =  205  Face =   17, Final PO-values from auto-convergence
+  PO1 =  280  PO2 =  230  Face =   18, Final PO-values from auto-convergence
+  PO1 =  265  PO2 =  255  Face =   19, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  275  Face =   20, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  295  Face =   21, Final PO-values from auto-convergence
+  PO1 =  295  PO2 =  300  Face =   22, Final PO-values from auto-convergence
+  PO1 =  290  PO2 =  265  Face =   23, Final PO-values from auto-convergence
+  PO1 =  280  PO2 =  230  Face =   24, Final PO-values from auto-convergence
+  PO1 =  270  PO2 =  190  Face =   25, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  205  Face =   26, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  230  Face =   27, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  255  Face =   28, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  275  Face =   29, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  295  Face =   30, Final PO-values from auto-convergence
+  PO1 =  260  PO2 =  300  Face =   31, Final PO-values from auto-convergence
+  PO1 =  250  PO2 =  265  Face =   32, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  230  Face =   33, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  190  Face =   34, Final PO-values from auto-convergence
+  PO1 =  215  PO2 =  205  Face =   35, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  230  Face =   36, Final PO-values from auto-convergence
+  PO1 =  190  PO2 =  255  Face =   37, Final PO-values from auto-convergence
+  PO1 =  180  PO2 =  275  Face =   38, Final PO-values from auto-convergence
+  PO1 =  170  PO2 =  295  Face =   39, Final PO-values from auto-convergence
+  PO1 =  275  PO2 =  300  Face =   40, Final PO-values from auto-convergence
+  PO1 =  265  PO2 =  265  Face =   41, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  230  Face =   42, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  190  Face =   43, Final PO-values from auto-convergence
+  PO1 =  235  PO2 =  205  Face =   44, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  230  Face =   45, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  255  Face =   46, Final PO-values from auto-convergence
+  PO1 =  195  PO2 =  275  Face =   47, Final PO-values from auto-convergence
+  PO1 =  185  PO2 =  295  Face =   48, Final PO-values from auto-convergence
+  PO1 =  305  PO2 =  300  Face =   49, Final PO-values from auto-convergence
+  PO1 =  300  PO2 =  265  Face =   50, Final PO-values from auto-convergence
+  PO1 =  290  PO2 =  230  Face =   51, Final PO-values from auto-convergence
+  PO1 =  280  PO2 =  190  Face =   52, Final PO-values from auto-convergence
+  PO1 =  265  PO2 =  205  Face =   53, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  230  Face =   54, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  255  Face =   55, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  275  Face =   56, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  295  Face =   57, Final PO-values from auto-convergence
+  PO1 =  330  PO2 =  265  Face =   58, Final PO-values from auto-convergence
+  PO1 =  320  PO2 =  230  Face =   59, Final PO-values from auto-convergence
+  PO1 =  310  PO2 =  190  Face =   60, Final PO-values from auto-convergence
+  PO1 =  300  PO2 =  205  Face =   61, Final PO-values from auto-convergence
+  PO1 =  285  PO2 =  230  Face =   62, Final PO-values from auto-convergence
+  PO1 =  275  PO2 =  255  Face =   63, Final PO-values from auto-convergence
+  PO1 =  260  PO2 =  275  Face =   64, Final PO-values from auto-convergence
+  PO1 =  340  PO2 =  230  Face =   65, Final PO-values from auto-convergence
+  PO1 =  340  PO2 =  190  Face =   66, Final PO-values from auto-convergence
+  PO1 =  330  PO2 =  205  Face =   67, Final PO-values from auto-convergence
+  PO1 =  315  PO2 =  230  Face =   68, Final PO-values from auto-convergence
+  PO1 =  300  PO2 =  255  Face =   69, Final PO-values from auto-convergence
+  PTD =  215              Edge =    1, Final PTD-value from auto-convergence.
+  PTD =  350              Edge =    2, Final PTD-value from auto-convergence.
+  PTD =  215              Edge =    3, Final PTD-value from auto-convergence.
+  PTD =  360              Edge =    4, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =    5, Final PTD-value from auto-convergence.
+  PTD =  340              Edge =    6, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =    7, Final PTD-value from auto-convergence.
+  PTD =  350              Edge =    8, Final PTD-value from auto-convergence.
+  PTD =  200              Edge =    9, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   10, Final PTD-value from auto-convergence.
+  PTD =  200              Edge =   11, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   12, Final PTD-value from auto-convergence.
+  PTD =  225              Edge =   13, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   14, Final PTD-value from auto-convergence.
+  PTD =  225              Edge =   15, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   16, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   17, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   18, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =   19, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   20, Final PTD-value from auto-convergence.
+  PTD =  250              Edge =   21, Final PTD-value from auto-convergence.
+  PTD =  330              Edge =   22, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =   23, Final PTD-value from auto-convergence.
+  PTD =  340              Edge =   24, Final PTD-value from auto-convergence.
+  PTD =  215              Edge =   25, Final PTD-value from auto-convergence.
+  PTD =  320              Edge =   26, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =   27, Final PTD-value from auto-convergence.
+  PTD =  330              Edge =   28, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =   29, Final PTD-value from auto-convergence.
+  PTD =  310              Edge =   30, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =   31, Final PTD-value from auto-convergence.
+  PTD =  320              Edge =   32, Final PTD-value from auto-convergence.
+  PTD =  200              Edge =   33, Final PTD-value from auto-convergence.
+  PTD =  300              Edge =   34, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =   35, Final PTD-value from auto-convergence.
+  PTD =  310              Edge =   36, Final PTD-value from auto-convergence.
+  PTD =  225              Edge =   37, Final PTD-value from auto-convergence.
+  PTD =  290              Edge =   38, Final PTD-value from auto-convergence.
+  PTD =  225              Edge =   39, Final PTD-value from auto-convergence.
+  PTD =  300              Edge =   40, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =   41, Final PTD-value from auto-convergence.
+  PTD =  275              Edge =   42, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =   43, Final PTD-value from auto-convergence.
+  PTD =  290              Edge =   44, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   45, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =   46, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =   47, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   48, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =   49, Final PTD-value from auto-convergence.
+  PTD =  310              Edge =   50, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =   51, Final PTD-value from auto-convergence.
+  PTD =  315              Edge =   52, Final PTD-value from auto-convergence.
+  PTD =  250              Edge =   53, Final PTD-value from auto-convergence.
+  PTD =  305              Edge =   54, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =   55, Final PTD-value from auto-convergence.
+  PTD =  310              Edge =   56, Final PTD-value from auto-convergence.
+  PTD =  215              Edge =   57, Final PTD-value from auto-convergence.
+  PTD =  295              Edge =   58, Final PTD-value from auto-convergence.
+  PTD =  215              Edge =   59, Final PTD-value from auto-convergence.
+  PTD =  305              Edge =   60, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =   61, Final PTD-value from auto-convergence.
+  PTD =  280              Edge =   62, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =   63, Final PTD-value from auto-convergence.
+  PTD =  295              Edge =   64, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =   65, Final PTD-value from auto-convergence.
+  PTD =  270              Edge =   66, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =   67, Final PTD-value from auto-convergence.
+  PTD =  280              Edge =   68, Final PTD-value from auto-convergence.
+  PTD =  225              Edge =   69, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =   70, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =   71, Final PTD-value from auto-convergence.
+  PTD =  270              Edge =   72, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =   73, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =   74, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =   75, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =   76, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =   77, Final PTD-value from auto-convergence.
+  PTD =  235              Edge =   78, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =   79, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =   80, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   81, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   82, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   83, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   84, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =   85, Final PTD-value from auto-convergence.
+  PTD =  280              Edge =   86, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =   87, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =   88, Final PTD-value from auto-convergence.
+  PTD =  250              Edge =   89, Final PTD-value from auto-convergence.
+  PTD =  270              Edge =   90, Final PTD-value from auto-convergence.
+  PTD =  250              Edge =   91, Final PTD-value from auto-convergence.
+  PTD =  280              Edge =   92, Final PTD-value from auto-convergence.
+  PTD =  215              Edge =   93, Final PTD-value from auto-convergence.
+  PTD =  260              Edge =   94, Final PTD-value from auto-convergence.
+  PTD =  215              Edge =   95, Final PTD-value from auto-convergence.
+  PTD =  270              Edge =   96, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =   97, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =   98, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =   99, Final PTD-value from auto-convergence.
+  PTD =  260              Edge =  100, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  101, Final PTD-value from auto-convergence.
+  PTD =  235              Edge =  102, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  103, Final PTD-value from auto-convergence.
+  PTD =  250              Edge =  104, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  105, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  106, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  107, Final PTD-value from auto-convergence.
+  PTD =  235              Edge =  108, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  109, Final PTD-value from auto-convergence.
+  PTD =  210              Edge =  110, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  111, Final PTD-value from auto-convergence.
+  PTD =  225              Edge =  112, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  113, Final PTD-value from auto-convergence.
+  PTD =  200              Edge =  114, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  115, Final PTD-value from auto-convergence.
+  PTD =  210              Edge =  116, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  117, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  118, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  119, Final PTD-value from auto-convergence.
+  PTD =  200              Edge =  120, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =  121, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  122, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =  123, Final PTD-value from auto-convergence.
+  PTD =  250              Edge =  124, Final PTD-value from auto-convergence.
+  PTD =  250              Edge =  125, Final PTD-value from auto-convergence.
+  PTD =  235              Edge =  126, Final PTD-value from auto-convergence.
+  PTD =  250              Edge =  127, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  128, Final PTD-value from auto-convergence.
+  PTD =  215              Edge =  129, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  130, Final PTD-value from auto-convergence.
+  PTD =  215              Edge =  131, Final PTD-value from auto-convergence.
+  PTD =  235              Edge =  132, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  133, Final PTD-value from auto-convergence.
+  PTD =  210              Edge =  134, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  135, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  136, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  137, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  138, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  139, Final PTD-value from auto-convergence.
+  PTD =  210              Edge =  140, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  141, Final PTD-value from auto-convergence.
+  PTD =  185              Edge =  142, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  143, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  144, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  145, Final PTD-value from auto-convergence.
+  PTD =  175              Edge =  146, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  147, Final PTD-value from auto-convergence.
+  PTD =  185              Edge =  148, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  149, Final PTD-value from auto-convergence.
+  PTD =  165              Edge =  150, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  151, Final PTD-value from auto-convergence.
+  PTD =  175              Edge =  152, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  153, Final PTD-value from auto-convergence.
+  PTD =  155              Edge =  154, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  155, Final PTD-value from auto-convergence.
+  PTD =  165              Edge =  156, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =  157, Final PTD-value from auto-convergence.
+  PTD =  260              Edge =  158, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =  159, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  160, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =  161, Final PTD-value from auto-convergence.
+  PTD =  250              Edge =  162, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =  163, Final PTD-value from auto-convergence.
+  PTD =  260              Edge =  164, Final PTD-value from auto-convergence.
+  PTD =  215              Edge =  165, Final PTD-value from auto-convergence.
+  PTD =  235              Edge =  166, Final PTD-value from auto-convergence.
+  PTD =  215              Edge =  167, Final PTD-value from auto-convergence.
+  PTD =  250              Edge =  168, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  169, Final PTD-value from auto-convergence.
+  PTD =  225              Edge =  170, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  171, Final PTD-value from auto-convergence.
+  PTD =  240              Edge =  172, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  173, Final PTD-value from auto-convergence.
+  PTD =  210              Edge =  174, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  175, Final PTD-value from auto-convergence.
+  PTD =  225              Edge =  176, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  177, Final PTD-value from auto-convergence.
+  PTD =  200              Edge =  178, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  179, Final PTD-value from auto-convergence.
+  PTD =  210              Edge =  180, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  181, Final PTD-value from auto-convergence.
+  PTD =  190              Edge =  182, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  183, Final PTD-value from auto-convergence.
+  PTD =  200              Edge =  184, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  185, Final PTD-value from auto-convergence.
+  PTD =  175              Edge =  186, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  187, Final PTD-value from auto-convergence.
+  PTD =  190              Edge =  188, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  189, Final PTD-value from auto-convergence.
+  PTD =  170              Edge =  190, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  191, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  192, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =  193, Final PTD-value from auto-convergence.
+  PTD =  290              Edge =  194, Final PTD-value from auto-convergence.
+  PTD =  285              Edge =  195, Final PTD-value from auto-convergence.
+  PTD =  295              Edge =  196, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =  197, Final PTD-value from auto-convergence.
+  PTD =  280              Edge =  198, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =  199, Final PTD-value from auto-convergence.
+  PTD =  290              Edge =  200, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  201, Final PTD-value from auto-convergence.
+  PTD =  270              Edge =  202, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  203, Final PTD-value from auto-convergence.
+  PTD =  280              Edge =  204, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  205, Final PTD-value from auto-convergence.
+  PTD =  260              Edge =  206, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  207, Final PTD-value from auto-convergence.
+  PTD =  270              Edge =  208, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  209, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  210, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  211, Final PTD-value from auto-convergence.
+  PTD =  260              Edge =  212, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  213, Final PTD-value from auto-convergence.
+  PTD =  235              Edge =  214, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  215, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  216, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  217, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  218, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  219, Final PTD-value from auto-convergence.
+  PTD =  235              Edge =  220, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  221, Final PTD-value from auto-convergence.
+  PTD =  210              Edge =  222, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  223, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  224, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  225, Final PTD-value from auto-convergence.
+  PTD =  200              Edge =  226, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  227, Final PTD-value from auto-convergence.
+  PTD =  210              Edge =  228, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =  229, Final PTD-value from auto-convergence.
+  PTD =  310              Edge =  230, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =  231, Final PTD-value from auto-convergence.
+  PTD =  315              Edge =  232, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  233, Final PTD-value from auto-convergence.
+  PTD =  300              Edge =  234, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  235, Final PTD-value from auto-convergence.
+  PTD =  310              Edge =  236, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  237, Final PTD-value from auto-convergence.
+  PTD =  290              Edge =  238, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  239, Final PTD-value from auto-convergence.
+  PTD =  300              Edge =  240, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  241, Final PTD-value from auto-convergence.
+  PTD =  275              Edge =  242, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  243, Final PTD-value from auto-convergence.
+  PTD =  290              Edge =  244, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  245, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  246, Final PTD-value from auto-convergence.
+  PTD =  225              Edge =  247, Final PTD-value from auto-convergence.
+  PTD =  280              Edge =  248, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  249, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =  250, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  251, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  252, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  253, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  254, Final PTD-value from auto-convergence.
+  PTD =  265              Edge =  255, Final PTD-value from auto-convergence.
+  PTD =  255              Edge =  256, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  257, Final PTD-value from auto-convergence.
+  PTD =  330              Edge =  258, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  259, Final PTD-value from auto-convergence.
+  PTD =  340              Edge =  260, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  261, Final PTD-value from auto-convergence.
+  PTD =  315              Edge =  262, Final PTD-value from auto-convergence.
+  PTD =  180              Edge =  263, Final PTD-value from auto-convergence.
+  PTD =  330              Edge =  264, Final PTD-value from auto-convergence.
+  PTD =  200              Edge =  265, Final PTD-value from auto-convergence.
+  PTD =  305              Edge =  266, Final PTD-value from auto-convergence.
+  PTD =  195              Edge =  267, Final PTD-value from auto-convergence.
+  PTD =  315              Edge =  268, Final PTD-value from auto-convergence.
+  PTD =  225              Edge =  269, Final PTD-value from auto-convergence.
+  PTD =  295              Edge =  270, Final PTD-value from auto-convergence.
+  PTD =  220              Edge =  271, Final PTD-value from auto-convergence.
+  PTD =  305              Edge =  272, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  273, Final PTD-value from auto-convergence.
+  PTD =  280              Edge =  274, Final PTD-value from auto-convergence.
+  PTD =  245              Edge =  275, Final PTD-value from auto-convergence.
+  PTD =  295              Edge =  276, Final PTD-value from auto-convergence.
+ Total task time:  5:17 min               
+TICRA-TOOLS>COMMAND OBJECT primary_panels.po get_currents ( source :   sequence(ref(secondary_panels.po)), field_accuracy : -80.0,   auto_convergence_of_po : on, convergence_on_output_grid :   sequence(ref(near_uv_negneg.grd))) cmd_30 
+ ----- TASK No. 2 -----     Started at  7:01:05 on April 14, 2020                
+  PO1 =  265  PO2 =  275  Face =    1, Final PO-values from auto-convergence
+  PO1 =  250  PO2 =  220  Face =    2, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  205  Face =    3, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  175  Face =    4, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  145  Face =    5, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  153  Face =    6, Final PO-values from auto-convergence
+  PO1 =  200  PO2 =  160  Face =    7, Final PO-values from auto-convergence
+  PO1 =  265  PO2 =  305  Face =    8, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  275  Face =    9, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  245  Face =   10, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  210  Face =   11, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  180  Face =   12, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  165  Face =   13, Final PO-values from auto-convergence
+  PO1 =  200  PO2 =  170  Face =   14, Final PO-values from auto-convergence
+  PO1 =  190  PO2 =  175  Face =   15, Final PO-values from auto-convergence
+  PO1 =  160  PO2 =  175  Face =   16, Final PO-values from auto-convergence
+  PO1 =  250  PO2 =  305  Face =   17, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  275  Face =   18, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  240  Face =   19, Final PO-values from auto-convergence
+  PO1 =  215  PO2 =  210  Face =   20, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  180  Face =   21, Final PO-values from auto-convergence
+  PO1 =  195  PO2 =  165  Face =   22, Final PO-values from auto-convergence
+  PO1 =  185  PO2 =  170  Face =   23, Final PO-values from auto-convergence
+  PO1 =  175  PO2 =  175  Face =   24, Final PO-values from auto-convergence
+  PO1 =  143  PO2 =  175  Face =   25, Final PO-values from auto-convergence
+  PO1 =  225  PO2 =  300  Face =   26, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  270  Face =   27, Final PO-values from auto-convergence
+  PO1 =  215  PO2 =  240  Face =   28, Final PO-values from auto-convergence
+  PO1 =  200  PO2 =  210  Face =   29, Final PO-values from auto-convergence
+  PO1 =  190  PO2 =  175  Face =   30, Final PO-values from auto-convergence
+  PO1 =  175  PO2 =  165  Face =   31, Final PO-values from auto-convergence
+  PO1 =  165  PO2 =  170  Face =   32, Final PO-values from auto-convergence
+  PO1 =  158  PO2 =  175  Face =   33, Final PO-values from auto-convergence
+  PO1 =  125  PO2 =  175  Face =   34, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  285  Face =   35, Final PO-values from auto-convergence
+  PO1 =  225  PO2 =  270  Face =   36, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  240  Face =   37, Final PO-values from auto-convergence
+  PO1 =  200  PO2 =  210  Face =   38, Final PO-values from auto-convergence
+  PO1 =  185  PO2 =  175  Face =   39, Final PO-values from auto-convergence
+  PO1 =  175  PO2 =  165  Face =   40, Final PO-values from auto-convergence
+  PO1 =  165  PO2 =  170  Face =   41, Final PO-values from auto-convergence
+  PO1 =  140  PO2 =  175  Face =   42, Final PO-values from auto-convergence
+  PO1 =  123  PO2 =  175  Face =   43, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  290  Face =   44, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  255  Face =   45, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  240  Face =   46, Final PO-values from auto-convergence
+  PO1 =  215  PO2 =  210  Face =   47, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  175  Face =   48, Final PO-values from auto-convergence
+  PO1 =  195  PO2 =  165  Face =   49, Final PO-values from auto-convergence
+  PO1 =  158  PO2 =  170  Face =   50, Final PO-values from auto-convergence
+  PO1 =  150  PO2 =  175  Face =   51, Final PO-values from auto-convergence
+  PO1 =  140  PO2 =  175  Face =   52, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  285  Face =   53, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  255  Face =   54, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  220  Face =   55, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  210  Face =   56, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  175  Face =   57, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  165  Face =   58, Final PO-values from auto-convergence
+  PO1 =  180  PO2 =  170  Face =   59, Final PO-values from auto-convergence
+  PO1 =  170  PO2 =  175  Face =   60, Final PO-values from auto-convergence
+  PO1 =  138  PO2 =  175  Face =   61, Final PO-values from auto-convergence
+  PO1 =  270  PO2 =  285  Face =   62, Final PO-values from auto-convergence
+  PO1 =  270  PO2 =  255  Face =   63, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  220  Face =   64, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  185  Face =   65, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  153  Face =   66, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  145  Face =   67, Final PO-values from auto-convergence
+  PO1 =  195  PO2 =  153  Face =   68, Final PO-values from auto-convergence
+  PO1 =  185  PO2 =  160  Face =   69, Final PO-values from auto-convergence
+  PO1 =  155  PO2 =  165  Face =   70, Final PO-values from auto-convergence
+  PO1 =  275  PO2 =  250  Face =   71, Final PO-values from auto-convergence
+  PO1 =  265  PO2 =  215  Face =   72, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  185  Face =   73, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  145  Face =   74, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  143  Face =   75, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  153  Face =   76, Final PO-values from auto-convergence
+  PO1 =  180  PO2 =  140  Face =   77, Final PO-values from auto-convergence
+  PTD =    0              Edge =    1, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =    2, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =    3, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =    4, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =    5, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =    6, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =    7, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =    8, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =    9, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   10, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   11, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   12, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   13, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   14, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   15, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   16, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   17, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   18, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   19, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   20, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   21, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   22, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   23, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   24, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   25, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   26, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   27, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   28, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   29, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   30, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   31, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   32, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   33, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   34, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   35, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   36, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   37, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   38, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   39, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   40, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   41, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   42, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   43, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   44, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   45, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   46, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   47, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   48, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   49, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   50, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   51, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   52, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   53, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   54, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   55, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   56, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   57, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   58, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   59, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   60, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   61, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   62, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   63, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   64, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   65, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   66, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   67, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   68, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   69, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   70, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   71, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   72, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   73, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   74, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   75, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   76, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   77, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   78, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   79, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   80, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   81, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   82, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   83, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   84, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   85, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   86, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   87, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   88, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   89, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   90, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   91, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   92, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   93, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   94, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   95, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   96, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   97, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =   98, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =   99, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  100, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  101, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  102, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  103, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  104, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  105, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  106, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  107, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  108, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  109, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  110, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  111, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  112, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  113, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  114, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  115, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  116, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  117, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  118, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  119, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  120, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  121, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  122, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  123, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  124, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  125, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  126, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  127, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  128, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  129, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  130, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  131, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  132, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  133, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  134, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  135, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  136, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  137, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  138, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  139, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  140, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  141, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  142, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  143, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  144, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  145, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  146, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  147, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  148, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  149, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  150, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  151, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  152, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  153, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  154, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  155, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  156, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  157, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  158, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  159, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  160, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  161, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  162, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  163, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  164, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  165, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  166, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  167, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  168, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  169, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  170, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  171, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  172, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  173, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  174, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  175, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  176, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  177, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  178, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  179, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  180, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  181, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  182, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  183, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  184, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  185, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  186, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  187, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  188, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  189, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  190, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  191, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  192, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  193, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  194, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  195, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  196, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  197, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  198, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  199, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  200, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  201, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  202, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  203, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  204, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  205, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  206, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  207, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  208, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  209, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  210, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  211, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  212, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  213, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  214, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  215, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  216, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  217, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  218, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  219, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  220, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  221, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  222, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  223, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  224, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  225, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  226, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  227, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  228, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  229, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  230, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  231, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  232, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  233, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  234, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  235, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  236, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  237, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  238, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  239, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  240, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  241, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  242, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  243, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  244, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  245, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  246, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  247, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  248, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  249, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  250, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  251, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  252, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  253, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  254, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  255, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  256, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  257, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  258, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  259, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  260, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  261, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  262, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  263, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  264, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  265, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  266, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  267, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  268, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  269, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  270, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  271, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  272, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  273, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  274, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  275, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  276, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  277, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  278, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  279, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  280, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  281, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  282, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  283, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  284, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  285, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  286, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  287, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  288, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  289, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  290, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  291, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  292, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  293, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  294, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  295, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  296, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  297, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  298, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  299, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  300, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  301, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  302, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  303, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  304, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  305, Final PTD-value from auto-convergence.
+  PTD =    0              Edge =  306, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  307, Final PTD-value from auto-convergence.
+  PTD =   10              Edge =  308, Final PTD-value from auto-convergence.
+ Total task time:  2:01 days              
+TICRA-TOOLS>COMMAND OBJECT near_uv_negneg.grd get_field ( source :   sequence(ref(primary_panels.po))) cmd_34 
+ ----- TASK No. 3 -----     Started at  8:18:53 on April 16, 2020                
+ Total task time:  8:13 min               
+TICRA-TOOLS>QUIT 
+ ----- END OF TASKS -----     Completed at  8:27:07 on April 16, 2020            
+ Total time was 2:01 days
+ Program stopped at  8:27:07 on 16 April 2020

@@ -1,0 +1,181 @@
+ Program started at 13:10:25 on 21 March 2020
+ 
+ TICRA Tools 19.1 (Linux amd64/em64t 64-bit)
+ 
+ TICRA Tools found  64 CPU threads
+ 
+WARNING: Message from object primary_panels.po: 
+A non-zero number of PTD-points has been specified in 'edge_points'. 
+However, neither PTD-elements nor PTD-field will be calculated as the 
+attribute 'method' has been set to 'po'. 
+To perform the PTD-calculation, change 'method' to 'ptd' or 'po_plus_ptd'. 
+ 
+TICRA-TOOLS>COMMAND OBJECT secondary_panels.po get_currents ( source :   sequence(ref(gaussian_beam_pattern)), field_accuracy : -80.0,   auto_convergence_of_po : on, convergence_on_scatterer :   sequence(ref(primary_panels.refl))) cmd_1 
+ ----- TASK No. 1 -----     Started at 13:10:26 on March 21, 2020                
+  PO1 =  360  PO2 =  240  Face =    1, Final PO-values from auto-convergence
+  PO1 =  350  PO2 =  200  Face =    2, Final PO-values from auto-convergence
+  PO1 =  340  PO2 =  195  Face =    3, Final PO-values from auto-convergence
+  PO1 =  330  PO2 =  220  Face =    4, Final PO-values from auto-convergence
+  PO1 =  315  PO2 =  245  Face =    5, Final PO-values from auto-convergence
+  PO1 =  340  PO2 =  275  Face =    6, Final PO-values from auto-convergence
+  PO1 =  330  PO2 =  240  Face =    7, Final PO-values from auto-convergence
+  PO1 =  320  PO2 =  200  Face =    8, Final PO-values from auto-convergence
+  PO1 =  310  PO2 =  195  Face =    9, Final PO-values from auto-convergence
+  PO1 =  300  PO2 =  220  Face =   10, Final PO-values from auto-convergence
+  PO1 =  285  PO2 =  245  Face =   11, Final PO-values from auto-convergence
+  PO1 =  275  PO2 =  265  Face =   12, Final PO-values from auto-convergence
+  PO1 =  315  PO2 =  310  Face =   13, Final PO-values from auto-convergence
+  PO1 =  310  PO2 =  275  Face =   14, Final PO-values from auto-convergence
+  PO1 =  300  PO2 =  240  Face =   15, Final PO-values from auto-convergence
+  PO1 =  290  PO2 =  200  Face =   16, Final PO-values from auto-convergence
+  PO1 =  280  PO2 =  195  Face =   17, Final PO-values from auto-convergence
+  PO1 =  265  PO2 =  220  Face =   18, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  245  Face =   19, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  265  Face =   20, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  280  Face =   21, Final PO-values from auto-convergence
+  PO1 =  285  PO2 =  310  Face =   22, Final PO-values from auto-convergence
+  PO1 =  275  PO2 =  275  Face =   23, Final PO-values from auto-convergence
+  PO1 =  270  PO2 =  240  Face =   24, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  200  Face =   25, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  195  Face =   26, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  220  Face =   27, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  240  Face =   28, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  265  Face =   29, Final PO-values from auto-convergence
+  PO1 =  195  PO2 =  280  Face =   30, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  305  Face =   31, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  275  Face =   32, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  240  Face =   33, Final PO-values from auto-convergence
+  PO1 =  215  PO2 =  200  Face =   34, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  195  Face =   35, Final PO-values from auto-convergence
+  PO1 =  190  PO2 =  220  Face =   36, Final PO-values from auto-convergence
+  PO1 =  180  PO2 =  240  Face =   37, Final PO-values from auto-convergence
+  PO1 =  170  PO2 =  265  Face =   38, Final PO-values from auto-convergence
+  PO1 =  158  PO2 =  280  Face =   39, Final PO-values from auto-convergence
+  PO1 =  285  PO2 =  305  Face =   40, Final PO-values from auto-convergence
+  PO1 =  275  PO2 =  275  Face =   41, Final PO-values from auto-convergence
+  PO1 =  265  PO2 =  240  Face =   42, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  200  Face =   43, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  195  Face =   44, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  220  Face =   45, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  240  Face =   46, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  265  Face =   47, Final PO-values from auto-convergence
+  PO1 =  195  PO2 =  280  Face =   48, Final PO-values from auto-convergence
+  PO1 =  315  PO2 =  305  Face =   49, Final PO-values from auto-convergence
+  PO1 =  310  PO2 =  275  Face =   50, Final PO-values from auto-convergence
+  PO1 =  300  PO2 =  240  Face =   51, Final PO-values from auto-convergence
+  PO1 =  290  PO2 =  200  Face =   52, Final PO-values from auto-convergence
+  PO1 =  280  PO2 =  195  Face =   53, Final PO-values from auto-convergence
+  PO1 =  265  PO2 =  220  Face =   54, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  245  Face =   55, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  265  Face =   56, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  280  Face =   57, Final PO-values from auto-convergence
+  PO1 =  340  PO2 =  275  Face =   58, Final PO-values from auto-convergence
+  PO1 =  330  PO2 =  240  Face =   59, Final PO-values from auto-convergence
+  PO1 =  320  PO2 =  200  Face =   60, Final PO-values from auto-convergence
+  PO1 =  310  PO2 =  195  Face =   61, Final PO-values from auto-convergence
+  PO1 =  295  PO2 =  220  Face =   62, Final PO-values from auto-convergence
+  PO1 =  285  PO2 =  245  Face =   63, Final PO-values from auto-convergence
+  PO1 =  275  PO2 =  265  Face =   64, Final PO-values from auto-convergence
+  PO1 =  350  PO2 =  240  Face =   65, Final PO-values from auto-convergence
+  PO1 =  350  PO2 =  200  Face =   66, Final PO-values from auto-convergence
+  PO1 =  340  PO2 =  195  Face =   67, Final PO-values from auto-convergence
+  PO1 =  330  PO2 =  220  Face =   68, Final PO-values from auto-convergence
+  PO1 =  310  PO2 =  245  Face =   69, Final PO-values from auto-convergence
+ Total task time:  4:43 min               
+TICRA-TOOLS>COMMAND OBJECT primary_panels.po get_currents ( source :   sequence(ref(secondary_panels.po)), field_accuracy : -80.0,   auto_convergence_of_po : on, convergence_on_output_grid :   sequence(ref(near_uv.grd))) cmd_30 
+ ----- TASK No. 2 -----     Started at 13:15:10 on March 21, 2020                
+  PO1 =  270  PO2 =  250  Face =    1, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  215  Face =    2, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  175  Face =    3, Final PO-values from auto-convergence
+  PO1 =  235  PO2 =  143  Face =    4, Final PO-values from auto-convergence
+  PO1 =  225  PO2 =  155  Face =    5, Final PO-values from auto-convergence
+  PO1 =  215  PO2 =  165  Face =    6, Final PO-values from auto-convergence
+  PO1 =  190  PO2 =  170  Face =    7, Final PO-values from auto-convergence
+  PO1 =  265  PO2 =  295  Face =    8, Final PO-values from auto-convergence
+  PO1 =  260  PO2 =  265  Face =    9, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  235  Face =   10, Final PO-values from auto-convergence
+  PO1 =  235  PO2 =  200  Face =   11, Final PO-values from auto-convergence
+  PO1 =  225  PO2 =  170  Face =   12, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  175  Face =   13, Final PO-values from auto-convergence
+  PO1 =  200  PO2 =  180  Face =   14, Final PO-values from auto-convergence
+  PO1 =  175  PO2 =  180  Face =   15, Final PO-values from auto-convergence
+  PO1 =  165  PO2 =  180  Face =   16, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  295  Face =   17, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  265  Face =   18, Final PO-values from auto-convergence
+  PO1 =  235  PO2 =  235  Face =   19, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  200  Face =   20, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  170  Face =   21, Final PO-values from auto-convergence
+  PO1 =  200  PO2 =  175  Face =   22, Final PO-values from auto-convergence
+  PO1 =  185  PO2 =  180  Face =   23, Final PO-values from auto-convergence
+  PO1 =  158  PO2 =  185  Face =   24, Final PO-values from auto-convergence
+  PO1 =  150  PO2 =  185  Face =   25, Final PO-values from auto-convergence
+  PO1 =  225  PO2 =  295  Face =   26, Final PO-values from auto-convergence
+  PO1 =  235  PO2 =  265  Face =   27, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  235  Face =   28, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  200  Face =   29, Final PO-values from auto-convergence
+  PO1 =  195  PO2 =  170  Face =   30, Final PO-values from auto-convergence
+  PO1 =  185  PO2 =  175  Face =   31, Final PO-values from auto-convergence
+  PO1 =  175  PO2 =  180  Face =   32, Final PO-values from auto-convergence
+  PO1 =  140  PO2 =  185  Face =   33, Final PO-values from auto-convergence
+  PO1 =  133  PO2 =  185  Face =   34, Final PO-values from auto-convergence
+  PO1 =  200  PO2 =  295  Face =   35, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  265  Face =   36, Final PO-values from auto-convergence
+  PO1 =  200  PO2 =  235  Face =   37, Final PO-values from auto-convergence
+  PO1 =  185  PO2 =  200  Face =   38, Final PO-values from auto-convergence
+  PO1 =  175  PO2 =  170  Face =   39, Final PO-values from auto-convergence
+  PO1 =  165  PO2 =  175  Face =   40, Final PO-values from auto-convergence
+  PO1 =  153  PO2 =  180  Face =   41, Final PO-values from auto-convergence
+  PO1 =  120  PO2 =  185  Face =   42, Final PO-values from auto-convergence
+  PO1 =  113  PO2 =  185  Face =   43, Final PO-values from auto-convergence
+  PO1 =  225  PO2 =  295  Face =   44, Final PO-values from auto-convergence
+  PO1 =  225  PO2 =  265  Face =   45, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  235  Face =   46, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  200  Face =   47, Final PO-values from auto-convergence
+  PO1 =  195  PO2 =  170  Face =   48, Final PO-values from auto-convergence
+  PO1 =  185  PO2 =  175  Face =   49, Final PO-values from auto-convergence
+  PO1 =  175  PO2 =  180  Face =   50, Final PO-values from auto-convergence
+  PO1 =  140  PO2 =  185  Face =   51, Final PO-values from auto-convergence
+  PO1 =  133  PO2 =  185  Face =   52, Final PO-values from auto-convergence
+  PO1 =  240  PO2 =  295  Face =   53, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  265  Face =   54, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  235  Face =   55, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  200  Face =   56, Final PO-values from auto-convergence
+  PO1 =  205  PO2 =  170  Face =   57, Final PO-values from auto-convergence
+  PO1 =  195  PO2 =  175  Face =   58, Final PO-values from auto-convergence
+  PO1 =  185  PO2 =  180  Face =   59, Final PO-values from auto-convergence
+  PO1 =  158  PO2 =  180  Face =   60, Final PO-values from auto-convergence
+  PO1 =  148  PO2 =  185  Face =   61, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  295  Face =   62, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  265  Face =   63, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  235  Face =   64, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  200  Face =   65, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  170  Face =   66, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  153  Face =   67, Final PO-values from auto-convergence
+  PO1 =  200  PO2 =  165  Face =   68, Final PO-values from auto-convergence
+  PO1 =  175  PO2 =  170  Face =   69, Final PO-values from auto-convergence
+  PO1 =  165  PO2 =  175  Face =   70, Final PO-values from auto-convergence
+  PO1 =  255  PO2 =  245  Face =   71, Final PO-values from auto-convergence
+  PO1 =  245  PO2 =  210  Face =   72, Final PO-values from auto-convergence
+  PO1 =  230  PO2 =  175  Face =   73, Final PO-values from auto-convergence
+  PO1 =  220  PO2 =  140  Face =   74, Final PO-values from auto-convergence
+  PO1 =  210  PO2 =  153  Face =   75, Final PO-values from auto-convergence
+  PO1 =  200  PO2 =  165  Face =   76, Final PO-values from auto-convergence
+  PO1 =  190  PO2 =  170  Face =   77, Final PO-values from auto-convergence
+ Total task time:  2:14 days              
+TICRA-TOOLS>COMMAND OBJECT near_uv.grd get_field ( source :   sequence(ref(primary_panels.po))) cmd_34 
+ ----- TASK No. 3 -----     Started at  3:45:31 on March 24, 2020                
+ Total task time:  7:33 min               
+TICRA-TOOLS>QUIT 
+ ----- END OF TASKS -----     Completed at  3:53:05 on March 24, 2020            
+INFO: 1 WARNING ENCOUNTERED. 
+ 
+WARNING NO. 1 
+Message from object primary_panels.po: 
+A non-zero number of PTD-points has been specified in 'edge_points'. 
+However, neither PTD-elements nor PTD-field will be calculated as the 
+attribute 'method' has been set to 'po'. 
+To perform the PTD-calculation, change 'method' to 'ptd' or 'po_plus_ptd'. 
+ 
+ 
+ Total time was 2:14 days
+ Program stopped at  3:53:05 on 24 March 2020

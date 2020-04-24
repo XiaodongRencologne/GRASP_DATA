@@ -1,0 +1,29 @@
+ Program started at 13:36:47 on 20 March 2020
+ 
+ TICRA Tools 19.1 (Linux amd64/em64t 64-bit)
+ 
+ TICRA Tools found  64 CPU threads
+ 
+WARNING: Message from object primary_panels.po: 
+A non-zero number of PTD-points has been specified in 'edge_points'. 
+However, neither PTD-elements nor PTD-field will be calculated as the 
+attribute 'method' has been set to 'po'. 
+To perform the PTD-calculation, change 'method' to 'ptd' or 'po_plus_ptd'. 
+ 
+TICRA-TOOLS>COMMAND OBJECT near_uv.grd get_field ( source :   sequence(ref(primary_panels.po))) cmd_34 
+ ----- TASK No. 1 -----     Started at 13:36:49 on March 20, 2020                
+ Total task time: 13:42 min               
+TICRA-TOOLS>QUIT 
+ ----- END OF TASKS -----     Completed at 13:50:31 on March 20, 2020            
+INFO: 1 WARNING ENCOUNTERED. 
+ 
+WARNING NO. 1 
+Message from object primary_panels.po: 
+A non-zero number of PTD-points has been specified in 'edge_points'. 
+However, neither PTD-elements nor PTD-field will be calculated as the 
+attribute 'method' has been set to 'po'. 
+To perform the PTD-calculation, change 'method' to 'ptd' or 'po_plus_ptd'. 
+ 
+ 
+ Total time was 13:46 min
+ Program stopped at 13:50:31 on 20 March 2020

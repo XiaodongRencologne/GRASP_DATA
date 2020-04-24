@@ -1,0 +1,39 @@
+COMMAND OBJECT secondary_panels.po get_currents ( source :  &
+sequence(ref(gaussian_beam_pattern)), field_accuracy : -80.0,  &
+auto_convergence_of_po : on, convergence_on_scatterer :  &
+sequence(ref(primary_panels.refl))) cmd_1 
+COMMAND OBJECT primary_panels.po get_currents ( source :  &
+sequence(ref(secondary_panels.po)), field_accuracy : -80.0,  &
+auto_convergence_of_po : on, convergence_on_output_grid :  &
+sequence(ref(near_uv_negneg.grd))) cmd_30 
+COMMAND OBJECT near_uv_negneg.grd get_field ( source :  &
+sequence(ref(primary_panels.po))) cmd_34 
+//COMMAND OBJECT near_azel.grd get_field ( source :  &
+//sequence(ref(primary39.po))) cmd_18 
+//COMMAND OBJECT azel_10deg.grd get_field ( source :  &
+//sequence(ref(primary_panels.po))) cmd_32 
+//COMMAND OBJECT polar_3deg.grd get_field ( source :  &
+//sequence(ref(primary_panels.po))) cmd_36 
+//COMMAND OBJECT cut10deg.cut get_field ( source :  &
+//sequence(ref(primary_panels.po))) cmd_22 
+//COMMAND OBJECT secondary.po get_currents ( source :  &
+//sequence(ref(gaussian_beam_pattern)), field_accuracy : -40.0,  &
+//auto_convergence_of_po : on, convergence_on_scatterer :  &
+//sequence(ref(primary.refl))) cmd_13 
+//COMMAND OBJECT primary.po get_currents ( source :  &
+//sequence(ref(secondary.po)), field_accuracy : -40.0, auto_convergence_of_po :  &
+//on, convergence_on_output_grid : sequence(ref(near_azel.grd))) cmd_14 
+//COMMAND OBJECT near_azel.grd get_field ( source :  &
+//sequence(ref(secondary.po))) cmd_27 
+//COMMAND OBJECT azel_3deg.grd get_field ( source :  &
+//sequence(ref(primary_conic.po))) cmd_26 
+//COMMAND OBJECT near_uv_posneg.grd get_field ( source :  &
+//sequence(ref(primary.po))) cmd_23 
+//COMMAND OBJECT polar_3deg.grd get_field ( source : sequence(ref(primary.po))) 
+//COMMAND OBJECT azel_10deg.grd get_field ( source :  &
+//sequence(ref(primary_conic.po))) cmd_7 
+//COMMAND OBJECT polar_3deg.grd get_field ( source :  &
+//sequence(ref(boresight.mgt))) cmd_4 
+//COMMAND OBJECT azel_1deg.grd get_field ( source :  &
+//sequence(ref(primary_panels.po))) cmd_19 
+QUIT 
